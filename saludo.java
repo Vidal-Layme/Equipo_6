@@ -1,6 +1,6 @@
 package Equipo_6;
 import java.util.Scanner;
-public class webIII {
+public class saludo {
     public static void main(String[] args){
         Scanner sc=new Scanner (System.in);
         System.out.println("Ingrese su nombre para imprimir el saludo");
